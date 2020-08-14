@@ -12,4 +12,4 @@
 * Black Canary
 * Super Girl
 * Batgirl (Barbara Gordon)
-
+* Catwoman
