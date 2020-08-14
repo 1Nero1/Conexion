@@ -8,3 +8,8 @@
 * Robin
 * Volcán Negro
 * Shazam
+* Hawkgirl
+* Black Canary
+* Super Girl
+* Batgirl (Barbara Gordon)
+
